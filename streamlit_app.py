@@ -116,4 +116,4 @@ else:
 
 # ----------------------------- Footer -----------------------------
 st.divider()
-st.caption("CAI2C08 · Machine Learning for Developers · Car price prediction demo")
+st.caption("Car price prediction demo")
